@@ -9,3 +9,4 @@ var product1TotalSalesAmt = product1Price * product1TotalSales;
 var product2TotalSalesAmt = product2Price * product2TotalSales;
 
 console.log("Total sales for", product1, "is $" + product1TotalSalesAmt);
+console.log("Total sales for", product2, "is $" + product2TotalSalesAmt);
